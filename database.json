@@ -16,6 +16,7 @@
     "html": "https://github.com/LineAja19/Verifip/blob/main/database.json"
   },
   "allowedIPs": [
-    "89.46.196.203"
+    "89.46.196.203",
+    "181.214.99.180"
   ]
 }
